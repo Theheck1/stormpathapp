@@ -1,0 +1,16 @@
+{
+  "name": "my-webapp",
+  "version": "1.0.0",
+  "description": "website for my new app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.2",
+    "express": "^4.13.4",
+    "express-stormpath": "^3.1.2"
+  }
+}
